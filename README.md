@@ -1,3 +1,6 @@
+> **Ovia Inc fork** — We maintain this fork of [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) because typed, fast decisions are the missing layer in most agent systems: Laya makes choice, score, and yes/no decisions over any text in a single forward pass, in 100+ languages, instead of generating paragraphs. We evaluate it for context engineering and agent routing work. Upstream credit: the Laya authors and convaiinnovations on Hugging Face. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandhaKishorM/laya/main/assets/logo-lockup-dark.png" />
